@@ -11,6 +11,8 @@ import cucumber.api.junit.Cucumber;
 		monochrome=true,
 		dryRun=false,
 		
+		//Check Git
+		
 		features= {"src/main/resources/Features/Demo/"},
 		//glue= {"src/test/java/StepDef/"},
 		
